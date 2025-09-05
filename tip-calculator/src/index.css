@@ -1,0 +1,10 @@
+body {
+    margin: 0;
+    padding: 100px;
+
+    font-family: monospace;
+    font-size: 18px;
+    font-weight: 600;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
